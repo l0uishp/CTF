@@ -25,8 +25,10 @@ En appliquant les filtres suivants :
 
 … il ne reste **que 10 résultats**.
 
-**Lien vers la recherche (avec filtres) :**  
-<https://bea.aero/les-enquetes/evenements-notifies/?tx_news_pi1%5Baction%5D=searchResult&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BfacetAction%5D=add&tx_news_pi1%5BfacetTitle%5D=searchAutorite_stringS&tx_news_pi1%5BfacetValue%5D=France&cHash=bcb9cd539230630dbff36eaea8fe0393>
+**Lien vers le moteur de recherche:**  
+<https://bea.aero/les-enquetes/evenements-notifies/>
+
+![Image du challenge](images/image1.png)
 
 
 Le **premier résultat** est localisé à **Roura (973)**, une ville de **Guyane**, ce qui est particulièrement cohérent avec la thématique du 404CTF 2025. 
