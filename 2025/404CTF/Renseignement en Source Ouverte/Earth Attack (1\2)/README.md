@@ -48,7 +48,7 @@ Après plusieurs requêtes, aucun résultat pertinent. Je retente donc d'explore
 
 ---
 
-### 🔍 Piste 2 Le format en trois phrases  
+### 🔍 Piste 3 Le format en trois phrases  
 Puis, en relisant la conversation pour la centième fois, un détail finit par me faire légèrement tiquer :  
 le message est structuré en trois phrases courtes.
 
