@@ -7,7 +7,7 @@
 ---
 
 ## 📸 Description
-![Image du challenge](images/challenge.png)
+![Image du challenge](img/challenge.png)
 
 ---
 
@@ -28,7 +28,7 @@ En appliquant les filtres suivants :
 **Lien vers le moteur de recherche:**  
 <https://bea.aero/les-enquetes/evenements-notifies/>
 
-![Image du challenge](images/image1.png)
+![Image du challenge](img/image1.png)
 
 
 Le **premier résultat** est localisé à **Roura (973)**, une ville de **Guyane**, ce qui est particulièrement cohérent avec la thématique du 404CTF 2025. 
